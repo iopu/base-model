@@ -1,0 +1,13 @@
+{
+    "name": "everglory/base-model",
+    "description": "Base Models",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.5.9"
+    },
+    "autoload": {
+        "psr-4": {
+            "Everglory\\BaseModel\\": "src/"
+        }
+    }
+}

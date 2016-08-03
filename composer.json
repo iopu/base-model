@@ -1,5 +1,5 @@
 {
-    "name": "everglory/base-model",
+    "name": "iopu/base-model",
     "description": "Base Models",
     "minimum-stability": "stable",
     "require": {
